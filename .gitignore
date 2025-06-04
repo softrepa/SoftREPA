@@ -1,0 +1,10 @@
+data
+encodings*
+edited
+generated
+__pycache__
+*.pyc
+*.jpeg
+*.DS_Store
+*.yaml
+*all*

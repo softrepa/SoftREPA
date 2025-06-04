@@ -1,0 +1,12 @@
+[
+    {
+        "prompt": "The image features a yellow building with a green door. The door is closed, revealing a black and white interior. The building also has a window with white curtains, adding a touch of contrast to the scene. Additionally, there is a potted plant placed on the sidewalk in front of the building, providing a touch of greenery to the urban setting.\n",
+        "img_path": "0001.png",
+        "tgt_prompt": "The image features a red building with a green door. The door is open, revealing a black and white interior. The building also has a window with white curtains, adding a touch of contrast to the scene. Additionally, there is a potted plant placed on the sidewalk in front of the building, providing a touch of greenery to the urban setting.\n"
+    },
+    {
+        "prompt": "The image features a rocky beach with a large body of water, likely an ocean, in the background. The sky above the ocean is dark and cloudy, creating a dramatic atmosphere. The beach is covered in rocks and boulders, with some of them being large and others smaller. The rocks are scattered across the beach, with some closer to the water and others further away. The overall color palette of the image is predominantly gray and blue, with the dark clouds in the sky contributing to the moody ambiance.\n",
+        "img_path": "0002.png",
+        "tgt_prompt": "The image features a sandy beach with a large body of water, likely an ocean, in the background. The sky above the ocean is dark and cloudy, creating a dramatic atmosphere. The beach is covered in shells and driftwood, with some of them being large and others smaller. The shells are scattered across the beach, with some closer to the water and others further away. The overall color palette of the image is predominantly beige and blue, with the dark clouds in the sky contributing to the moody ambiance.\n"
+    }
+]
