@@ -45,7 +45,7 @@ python sample.py \
     --prompt "knolling of a drawing tools for painter.";
 ```
 ```
-#softrepa
+#softrepa SD3
 python sample.py \
     --model sd3 --use_dc --use_dc_t True \
     --n_dc_tokens 4 --n_dc_layers 5 \
@@ -69,7 +69,7 @@ python edit_sd3.py \
     --tgt_prompt "The image features a red building with a green door. The door is open, revealing a black and white interior. The building also has a window with white curtains, adding a touch of contrast to the scene. Additionally, there is a potted plant placed on the sidewalk in front of the building, providing a touch of greenery to the urban setting.\n";
 ```
 ```
-#softrepa
+#softrepa SD3 with FlowEdit
 python edit_sd3.py \
     --use_dc --use_dc_t --n_dc_tokens 4 --n_dc_layers 5 \
     --img_size 1024 \
